@@ -1,0 +1,20 @@
+body {
+			background: url(calculator.jpg);
+			background-size:cover;
+		}
+		.button {
+			width: 70px;
+			height: 70px;
+		}
+		.display input {
+			position: relative;
+			left: 2px;
+			top: 20px;
+			height: 50px;
+			color: black;
+			text-align: right;
+			font-size: 30px;
+		}
+		h1 {
+			text-align: center;
+		}
